@@ -5,11 +5,3 @@ declare module '*.vue' {
   const componentOptions: ComponentOptions
   export default componentOptions
 }
-declare module '*.css' {
-    const content: any;
-    export default content;
-}
-declare module '*.scss' {
-    const content: any;
-    export default content;
-}
