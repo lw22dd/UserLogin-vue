@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import index from '../views/index.vue'
+import index from '@/views/index.vue' 
 
 const routes = [
   { path: '/', redirect: '/login' },

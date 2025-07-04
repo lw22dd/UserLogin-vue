@@ -1,9 +1,4 @@
 
-<script setup lang="ts">
-// src/App.vue
-
-</script>
-
 <template>
   <RouterView />
 </template>

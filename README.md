@@ -1,2 +1,5 @@
-# UserLogin-vue
-使用vue3 + gin + gorm + vite 写一个最基本的用户登陆注册流程，实现 1.支持邮箱和密码的登录 2. 需要前后端分离 3.登陆成功后可以退出
+# Vue 3 + TypeScript + Vite
+
+This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
